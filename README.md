@@ -167,7 +167,7 @@ A quality-control application for managing form submissions and image attachment
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MuhammadZubair-hub/MuhammadZubair-hub/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/MuhammadZubair-hub/MuhammadZubair-hub/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
