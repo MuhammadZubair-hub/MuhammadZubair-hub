@@ -202,7 +202,7 @@ Bachelor's Degree in Computer Science
 
 I'm always interested in discussing mobile development, React Native, software architecture and interesting product ideas.
 
-<div align="center"> <a href="https://www.linkedin.com/in/muhammad-zubair"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:mianmuhammadzubair94@gmail.com"> <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<div align="center"> <a href="https://www.linkedin.com/in/muhammad-zubair-03471a275/"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:mianmuhammadzubair94@gmail.com"> <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 <br/><br/>
 
