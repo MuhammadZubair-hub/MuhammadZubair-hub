@@ -11,8 +11,8 @@ Building modern, scalable and production-ready mobile applications for **Android
 <a href="https://github.com/MuhammadZubair-hub">
   <img src="https://img.shields.io/badge/GitHub-MuhammadZubair--hub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="linkedin.com/in/muhammad-zubair-03471a275/">
-  <img src="linkedin.com/in/muhammad-zubair-03471a275/?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/muhammad-zubair-developer/">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Zubair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mianmuhammadzubair94@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -44,7 +44,7 @@ I focus on transforming ideas and Figma designs into polished, responsive and pr
 ### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,android" />
+  <img src="https://skillicons.dev/icons?i=react,js,androidstudio" />
 </p>
 
 `React Native` · `React Navigation` · `JavaScript` · `Android`
@@ -77,7 +77,7 @@ I focus on transforming ideas and Figma designs into polished, responsive and pr
 
 ## 🚀 Featured Projects
 
-### 🛒 Naeem Electronics — Installment Tracking
+### 🛒 Naeem Electronics: Installment Tracking
 
 A cross-platform React Native application designed to streamline installment management.
 
@@ -117,15 +117,14 @@ A React Native application built around high-performance barcode scanning.
 - `react-native-vision-camera`
 - Offline support
 - Redux Persist & AsyncStorage
-- REST API integration
-- Axios
+- REST API integration with Axios
 - Sound alerts
 - Flash messages
 - Responsive UI
 
 ---
 
-### 🏗️ Wonder Land — QC
+### 🏗️ Wonder Land: QC
 
 A quality-control application for managing form submissions and image attachments.
 
@@ -146,7 +145,6 @@ A quality-control application for managing form submissions and image attachment
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadZubair-hub&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZubair-hub&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
@@ -167,7 +165,7 @@ A quality-control application for managing form submissions and image attachment
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MuhammadZubair-hub/MuhammadZubair-hub/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/MuhammadZubair-hub/MuhammadZubair-hub/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -176,33 +174,46 @@ A quality-control application for managing form submissions and image attachment
 ## 🎯 Current Focus
 
 ```text
-React Native        ████████████████████  100%
-Mobile Architecture ██████████████████░░   90%
-REST API Integration██████████████████░░   90%
-UI/UX Implementation ███████████████████░   95%
-Firebase            █████████████████░░░   85%
-App Deployment      ██████████████████░░   90%
-💼 Experience
+React Native          ████████████████████  100%
+UI/UX Implementation  ███████████████████░   95%
+Mobile Architecture   ██████████████████░░   90%
+REST API Integration  ██████████████████░░   90%
+App Deployment        ██████████████████░░   90%
+Firebase              █████████████████░░░   85%
+```
 
-React Native App Developer
-APEX Innovation Technology · Lahore, Pakistan
+---
 
-Dec 2024 — Present
+## 💼 Experience
+
+### React Native App Developer
+**APEX Innovation Technology** · Lahore, Pakistan
+*Dec 2024 to Present*
 
 Working on production-grade React Native applications for Android and iOS, including API integrations, SAP-connected applications, reusable UI components, state management and application deployment.
 
-🎓 Education
+---
 
-Government College University, Lahore (GCUL)
+## 🎓 Education
 
-Bachelor's Degree in Computer Science
-2020 — 2024 · CGPA: 3.20
+### Government College University, Lahore (GCUL)
+**Bachelor's Degree in Computer Science**
+*2020 to 2024* · CGPA: 3.20
 
-🤝 Let's Connect
+---
+
+## 🤝 Let's Connect
 
 I'm always interested in discussing mobile development, React Native, software architecture and interesting product ideas.
 
-<div align="center"> <a href="https://www.linkedin.com/in/muhammad-zubair-03471a275/"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:mianmuhammadzubair94@gmail.com"> <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-zubair-developer/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mianmuhammadzubair94@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/><br/>
 
@@ -212,4 +223,4 @@ I'm always interested in discussing mobile development, React Native, software a
 
 <i>Building mobile experiences, one component at a time.</i>
 
-</div> ```
+</div>
